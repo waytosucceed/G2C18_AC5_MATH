@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Anna  is standing at 6 and then she moves backward. Complete the number sentence.",
+    "options":["6","-","","=","1"],
+    "answers": ["6","-","5","=","1"],
+    "secondImg":"./images/11.png"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Kate is standing at 2 and then she moves forward. Complete the number sentence.",
+    "options":["7","-","","=","3"],
+    "answers": ["7","-","4","=","3"],
+    "secondImg":"./images/12.png"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Lucas is standing at 18 and then he moves backward a few steps. Complete the number sentence.",
+    "options":["18","-","","=","14"],
+    "answers": ["18","-","4","=","14"],
+    "secondImg":"./images/13.png"
+  },
+  {
+    "questionNo": 4,
+    "question": "Anna is standing at 20 and then she moves backward. Complete the number sentence.",
+    "options":["20","-","","=","15"],
+    "answers": ["20","-","5","=","15"],
+    "secondImg":"./images/14.png"
+  },
+  {
+    "questionNo": 5,
+    "question": "Kate is standing at 21 and then she moves forward. Complete the number sentence.",
+    "options":["21","+","","=","28"],
+    "answers": ["21","+","7","=","28"],
+    "secondImg":"./images/15.png"
+  },
+  {
+    "questionNo": 6,
+    "question": " Lucas started at 80 and moved back. Use the number line to complete the number sentence.",
+    "options":["80","-","","=",""],
+    "answers": ["80","-","5","=","75"],
+    "secondImg":"./images/16.png"
+  },
+  {
+    "questionNo": 7,
+    "question": "Anna started at 90 and moved backward. Use the number line to complete the number sentence.",
+    "options":["90","-","","=",""],
+    "answers": ["90","-","5","=","85"],
+    "secondImg":"./images/17.png"
+  },
+  {
+    "questionNo": 8,
+    "question": "Kate is standing on 55 and then moves right. Use the number line to complete the number sentence .",
+    "options":["55","+","","=",""],
+    "answers": ["55","+","5","=","60"],
+    "secondImg":"./images/18.png"
+  },
+  {
+    "questionNo": 9,
+    "question": "Anna is at 75 and started to move left. Complete the number sentence using the number line.",
+    "options":["75","-","","=",""],
+    "answers": ["75","-","10","=","65"],
+    "secondImg":"./images/19.png"
+  },
+  {
+    "questionNo": 10,
+    "question": "Lucas is standing on 85 and then moves right. Use the number line to complete the number sentence .",
+    "options":["85","+","","=",""],
+    "answers": ["85","+","10","=","95"],
+    "secondImg":"./images/20.png"
+  }
+]
